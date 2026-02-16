@@ -12,7 +12,7 @@ The dashboard file is provided in `.twbx` format, which includes both the workbo
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot]((https://github.com/siddemmohankrishna/data-analytics-tableau-dashboard/blob/main/Screenshot%202026-02-16%20180024.png))
+![Dashboard Screenshot](https://github.com/siddemmohankrishna/data-analytics-tableau-dashboard/blob/main/Screenshot%202026-02-16%20180024.png)
 
 
 ## 🛠️ Tools & Technologies Used
